@@ -2,7 +2,7 @@
 title: "Sử dụng Elasticsearch Vector Scoring với .NET Core"
 imgUrl: "/images/terminal-setup.jpg"
 youtubeId: ""
-publishedAt: "2022-10-03"
+publishedAt: "2023-09-18"
 summary: "This is my supplementary blog post for using elasticsearch-vector-scoring with .net core"
 ---
 # Khi làm việc với dữ liệu vector như embedding vectors từ các mô hình học máy, việc tìm kiếm và so sánh các vector trở nên rất quan trọng. Trong bài viết này, chúng ta sẽ tìm hiểu cách sử dụng `elasticsearch-vector-scoring` với .NET Core để thực hiện các truy vấn dựa trên vector.
