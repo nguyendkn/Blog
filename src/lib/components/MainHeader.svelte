@@ -21,13 +21,13 @@
       <DarkmodeButton />
 
       <IconLink
-        href="https://www.youtube.com/@joseanmartinez/featured"
+        href="https://www.youtube.com/channel/UCubo4RR5YU5zhwwmTRJwOQg"
         target="_blank"
       >
         <YoutubeIcon class="w-8 h-8 fill-current" />
       </IconLink>
       <IconLink
-        href="https://github.com/josean-dev"
+        href="https://github.com/nguyendkn"
         target="_blank"
       >
         <GithubIcon class="w-8 h-8 fill-current" />
