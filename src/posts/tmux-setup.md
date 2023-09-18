@@ -1,7 +1,7 @@
 ---
 title: "How To Use and Configure Tmux Alongside Neovim"
 imgUrl: "/images/tmux-setup.jpg"
-youtubeId: "U-omALWIBos"
+youtubeId: ""
 publishedAt: "2022-10-27"
 summary: "Follow along my youtube video with this blog post to get up and running with Tmux quickly and use it alongside Neovim for an awesome software development workflow."
 ---

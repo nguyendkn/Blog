@@ -1,7 +1,7 @@
 ---
 title: "Vim Essentials Cheatsheet & Guide"
-imgUrl: "/post-images/vim-essentials-cheatsheet.jpg"
-youtubeId: "80mWp6H4zEw"
+imgUrl: "/images/vim-essentials-cheatsheet.jpg"
+youtubeId: ""
 publishedAt: "2023-08-05"
 summary: "This is my Vim cheatsheet with all of the most essential commands! You can check out my youtube video for a complete guide on how almost all of these work and how I go about remembering them."
 ---
