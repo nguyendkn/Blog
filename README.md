@@ -2,8 +2,6 @@
 
 This repository is the home to my personal [website](https://www.blogs.redis.asia.com/). This website is intended for personal use, and functions as a method of storing/organizing notes and projects.
 
-The site is forked from the incredible [Tailwind-Nextjs-Starter-Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) by [Tim Lrx](https://github.com/timlrx).
-
 Check out the starter documentation or fork this project and start building your own blog!
 
 ## Motivation
