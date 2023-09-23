@@ -33,7 +33,7 @@ Because it is not ordered, we do not need to rearrange indexes.
 ```js
 let user = {
   age: 28,
-  name: 'Curtis',
+  name: 'Khoi Nguyen',
   magic: true,
   scream: function() {
     console.log('aaaaaahhhhhhh!');
@@ -46,7 +46,7 @@ console.log(user)
 returns
  {
   age: 28,
-  name: 'Curtis',
+  name: 'Khoi Nguyen',
   magic: true,
   scream: [Function: scream],
   spell: 'abra kadabra'

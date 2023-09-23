@@ -190,7 +190,7 @@ function reverse(str) {
   return backwards.join('')
 }
 
-console.log(reverse('Curtis is cool')) //looc si sitruC
+console.log(reverse('khoinguyen is cool')) //looc si sitruC
 ```
 
 You can also do this using built in methods:

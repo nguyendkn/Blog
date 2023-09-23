@@ -136,12 +136,12 @@ interface Author {
   writeBook: (title: string) => boolean // function types need the type of the arguments and the return type
 }
 
-const curtis: Author = {} // error!
+const khoinguyen: Author = {} // error!
 // error TS2741: Property 'name' is missing in type '{}' but required in type 'Author'.
 
 const person: Author = {
-  name: 'Curtis',
-  penName: 'Curtis',
+  name: 'khoinguyen',
+  penName: 'khoinguyen',
   writeBook: (title: string) => true,
 }
 ```
@@ -161,7 +161,7 @@ Can create the interface a different way:
 
 ```typescript
 const user: { name: string; age: number } = {
-  name: 'Curtis',
+  name: 'khoinguyen',
   age: 30,
 }
 ```
@@ -282,8 +282,8 @@ interface IUser {
   drinkLiquid: (fluid: string) => boolean
 }
 
-const curtis: IUser = {
-  username: 'curtis',
+const khoinguyen: IUser = {
+  username: 'khoinguyen',
   password: 'pass123',
   drinkLiquid: (fluid: string) => {
     return true // needs to return a boolean because of the return type in the interface

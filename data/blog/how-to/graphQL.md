@@ -505,7 +505,7 @@ If we query for a company, we can now get their users.
         },
         {
           "id": "6",
-          "firstName": "Curtis",
+          "firstName": "Khoi Nguyen",
           "age": 28
         }
       ]
